@@ -1,0 +1,21 @@
+body{
+	font-family:Calibri;
+}
+
+#divTitulo{
+	background:mistyRose;
+	font-size:40px;
+	color:black;
+	font-family:Segoe script;
+
+}
+
+#divMenu{	
+	background: black;
+	color:mistyRose;
+}
+
+#divMenu a{	
+		color:mistyRose;
+		text-decoration:none;
+}
